@@ -1,0 +1,8 @@
+{
+  "Student": ["student_id", "name", "age", "department_id"],
+  "Department": ["department_id", "department_name"],
+  "Enrollment": ["student_id", "course_id", "grade"],
+  "Course": ["course_id", "course_name", "credits"],
+  "employees": ["id","first_name","salary", "department"],
+  "projects": ["project_name","employee_id"]
+}
